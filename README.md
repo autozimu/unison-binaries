@@ -1,3 +1,8 @@
+Note: those binaries might become outdated over time. I recommend users taking
+advantage of [nix] to install and update unison.
+
+[nix]: https://nixos.org/
+
 Unison 2.51.2 binaries compiled using ocaml 4.08.1 on Amazon Linux 2012.03.
 
 The unison and ocaml versions are selected to matches ones provided by
